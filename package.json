@@ -1,0 +1,22 @@
+{
+  "name": "ahan_online",
+  "version": "1.0.0",
+  "description": "Express project for Ahan Online",
+  "main": "Ahan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrdad7072/Ahan_Online.git"
+  },
+  "author": "Mehrdad Karimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehrdad7072/Ahan_Online/issues"
+  },
+  "homepage": "https://github.com/mehrdad7072/Ahan_Online#readme",
+  "dependencies": {
+    "Express": "^3.0.1"
+  }
+}
